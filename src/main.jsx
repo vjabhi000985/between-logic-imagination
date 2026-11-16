@@ -138,8 +138,8 @@ function App() {
             <span className="eyebrow">06 / OPEN TO GOOD CONVERSATIONS</span>
             <h2>Have an idea?<br/><em>Let's make something.</em></h2>
             <p>For thoughtful collaborations, teaching opportunities, project conversations or simply to say hello.</p>
-            <a className="button button-light" href="mailto:hello@example.com">Write me a note <ArrowUpRight size={16}/></a>
-            <div className="contact-socials"><a href="https://www.instagram.com/baaya_nedil/" target="_blank" rel="noreferrer"><Instagram size={16}/> Instagram</a><a href="https://github.com/" target="_blank" rel="noreferrer"><Github size={16}/> GitHub</a><a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><Linkedin size={16}/> LinkedIn</a></div>
+            <a className="button button-light" href="mailto:princeabhi00985@gmail.com">Write me a note <ArrowUpRight size={16}/></a>
+            <div className="contact-socials"><a href="https://www.instagram.com/baaya_nedil/" target="_blank" rel="noreferrer"><Instagram size={16}/> Instagram</a><a href="https://github.com/vjabhi000985" target="_blank" rel="noreferrer"><Github size={16}/> GitHub</a><a href="https://www.linkedin.com/in/pandey-abhishek-nath-roy/" target="_blank" rel="noreferrer"><Linkedin size={16}/> LinkedIn</a></div>
             <div className="contact-bottom"><span>BETWEEN LOGIC & IMAGINATION</span><span>MADE WITH CURIOSITY · © {new Date().getFullYear()}</span><a href="#top">BACK TO TOP ↑</a></div>
           </div>
         </section>
